@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Sep  2 14:36:10 2018
+@author: ksirvole
+"""
+
 #Snake Tutorial Python
 import numpy 
 import math
